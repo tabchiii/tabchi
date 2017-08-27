@@ -234,7 +234,7 @@ function create_config( )
 	"botmanager",
     "tabchi"
     },
-    sudo_users = {282958812},--Sudo users
+    sudo_users = {199042636},--Sudo users
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
